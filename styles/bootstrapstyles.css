@@ -1,0 +1,125 @@
+.bold {font-weight:bold}
+.normal {color:black; font-size: 16px; font-weight: normal; text-decoration: none;}
+.heading {text-align: center; font-weight: bold;}
+.underline {text-decoration: underline;}
+.solid {text-decoration: solid;}
+.link {color:rgba(0, 81, 255, 0.76);
+    text-decoration: underline;}
+.center {text-align: center;}
+.tableaubg {
+    background-image: url('../images/city-bg.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.center {text-align: center;}
+
+
+.headerTBdiv {
+    position:absolute;
+    top: 20px;
+    right: 20px;
+    left: 20px;
+    height: 75px;
+    border: solid black 2px;
+    margin: 5px;
+    background-color: #ffffff; 
+    opacity: 1;
+
+}
+
+.chart1 {
+    position:absolute;
+    top: 30px;
+    left: 130px;
+    right: 130px;
+    height: 491px; 
+    border: solid black 4px;
+    background-color: #ffffff;
+    opacity: 1;
+    display:inline-block;
+}
+
+.chart2 {
+    position:absolute;
+    top: 700px;
+    left: 130px;
+    right: 130px;
+    Height: 491px;
+    border: solid black 4px;
+    background-color: #ffffff;
+    opacity: 1;
+}
+
+.chart3 {
+    position:absolute;
+    top: 1400px;
+    left: 130px;
+    right: 130px;
+    Height: 491px;
+    border: solid black 4px;
+    background-color: #ffffff;
+}
+
+.chart4 {
+    position:absolute;
+    top: 2100px;
+    left: 130px;
+    right: 130px;
+    height: 491px;
+    border: solid black 4px;
+    background-color: #ffffff;
+}
+
+.text1 {
+    position:absolute;
+    top: 531px;
+    right: 130px;
+    left: 130px;
+    height: 100px;
+}
+
+.text2 {
+    position:absolute;
+    top: 1201px;
+    right: 130px;
+    left: 130px;
+    height: 100px; 
+}
+
+.text3 {
+    position:absolute;
+    top: 1901px;
+    right: 130px;
+    left: 130px;
+    height: 100px; 
+}
+
+.text4 {
+    position:absolute;
+    top: 2601px;
+    right: 130px;
+    left: 130px;
+    height: 100px; 
+}
+
+.TBdiv {
+    position:absolute;
+    top: 110px;
+    right: 25px;
+    left: 25px;
+    Height: 2775px;
+    border: solid black 2px;
+    background-color: #ffffff;
+    opacity: 0.95;
+}
+
+.footerTBdiv {
+    position:absolute;
+    top: 4000;
+    right: 25px;
+    left: 25px;
+    border: solid black 2px;
+    background-color: #ffffff;
+    opacity: 1;
+}

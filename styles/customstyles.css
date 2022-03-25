@@ -1,0 +1,15 @@
+.bold {font-weight:bold}
+.normal {color:black; font-size: 16px; font-weight: normal; text-decoration: none;}
+.heading {text-align: center; font-weight: bold;}
+.underline {text-decoration: underline;}
+.tableaubg {
+    background-image: url('../images/city-bg.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.center {text-align: center;}
+.link {
+    color:rgba(0, 81, 255, 0.76);
+    text-decoration: underline;
+}
